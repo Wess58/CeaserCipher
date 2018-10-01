@@ -13,7 +13,7 @@
             Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
             Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
-   *Deciphering is done  with a right shift of 3 letters.
+   * Deciphering is done  with a right shift of 3 letters.
 
 
  Here's the link to the Github Repo :<https://github.com/Wess58/CeaserCipher/>
@@ -34,9 +34,9 @@
    * Maneouver to 'clone or download' button and get the link
    * open your terminal and run the 'git clone ...' command in a directory of your choice
    * Enter into the folder and run the following commands :
-                i. Gradle compileJava
-                ii. cd build/classes/java/main
-                iii. Java App
+                * i. Gradle compileJava
+                * ii. cd build/classes/java/main
+                * iii. Java App
 
 
 

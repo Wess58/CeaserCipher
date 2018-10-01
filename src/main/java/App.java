@@ -33,8 +33,7 @@ public class App {
                     break;
                 case 2:
                     //send retrived string from encrypt() method and keyLength to decrypt() method it returns 'Decrypted' string
-                    System.out.println("---------");
-                    System.out.println("---------");
+                    System.out.println("=========");
                     System.out.println("Your Decrypted message is " + "'" + decrypt(encrypt(str,keyLength),keyLength) + "'");
                     System.out.println("---------");
                     break;
