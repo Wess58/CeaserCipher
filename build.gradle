@@ -2,10 +2,11 @@ apply plugin: 'java'
 apply plugin: 'application'
 
 version '1.0-SNAPSHOT'
-archivesBaseName = 'ceaserCipher'
-mainClassName = 'CeaserCipher'
 
 sourceCompatibility = 1.8
+archivesBaseName = "CeaserCipher"
+mainClassName = "CeaserCipher"
+
 
 repositories {
     mavenCentral()
