@@ -4,7 +4,13 @@ import static org.junit.Assert.*;
 public class CeaserCipherTest {
     @Test
     public void str_isLowerCase(){
-        String str testStr = new str.toLowerCase ("BRO CODE ");
-        assertEquals("bro code", testStr instanceof str);
+        String str="ABC";
+     assertEquals("abc",str.toLowerCase());
+    }
+
+    @Test
+    public void enrypted_isableto_encrypt(){
+        String str = "hi";
+         assertEquals("jk", ( ));
     }
 }
