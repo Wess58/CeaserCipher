@@ -34,9 +34,10 @@
    * Maneouver to 'clone or download' button and get the link
    * open your terminal and run the 'git clone ...' command in a directory of your choice
    * Enter into the folder and run the following commands :
-                * i. Gradle compileJava
-                * ii. cd build/classes/java/main
-                * iii. Java App
+   
+                 . gradle compileJava
+                 . cd build/classes/java/main
+                 . java App
 
 
 
